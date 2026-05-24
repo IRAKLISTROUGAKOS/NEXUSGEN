@@ -46,6 +46,5 @@ app.*.map.json
 
 # NexusGen project-specific excludes
 words/
-data_collector.py
 generate_nexusgen_doc.js
 *.docx
